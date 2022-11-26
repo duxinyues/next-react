@@ -1,0 +1,16 @@
+{
+    "name": "webpack-electron",
+    "version": "0.0.1",
+    "description": "",
+    "license": "MIT",
+    "author": {
+      "name": ""
+    },
+    "main": "./dist/main/main.js",
+    "scripts": {
+      "rebuild": "",
+      "postinstall": "",
+      "link-modules": ""
+    },
+    "dependencies": {}
+  }
